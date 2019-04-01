@@ -1,5 +1,5 @@
-Notice: main function is in ThreeSort.java
+Notice: main function is in "ThreeSort.java".
 
-Testcases: random.txt contains thousands of numbers.
+Testcases: "random.txt" contains thousands of numbers.
 
-Test results: order.txt
+Test results: "order.txt" contains numbers orderly.
